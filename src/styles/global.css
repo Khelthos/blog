@@ -1,0 +1,31 @@
+body {
+  background-color: #323133;
+  color: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  background: -webkit-linear-gradient(#7f00ff, #e100ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  color: #fff;
+}
+
+a {
+  color: #e100ff;
+}
+
+a:visited {
+  color: #7f00ff;
+}
+
+a:hover {
+  color: #e84a5f;
+}

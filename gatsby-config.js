@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `FreeRex Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Umberto Di Napoli`,
+      summary: `che vive e lavora a Torino.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Un piccolo blog dove parlo di tecnologia e programmazione.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `khelthos`,
     },
   },
   plugins: [
